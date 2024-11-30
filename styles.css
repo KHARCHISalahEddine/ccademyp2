@@ -1,0 +1,40 @@
+
+body, table{
+    text-align: center;
+    font-size: 1.2rem;
+    background-color: beige;
+}
+h2{
+    color:blueviolet
+}
+table {
+    margin: 0 auto;
+    border: 2px solid purple;
+}
+
+th {
+    background-color: pink;
+    border-bottom: 2px solid purple;
+}
+td {
+    border-bottom: solid 1px purple;
+}
+tbody {
+    text-align: left;
+    border-top: 2px solid rgb(235, 0, 0);
+}
+.firstCol {
+    width: 100px;
+    padding: 6px 0;
+}
+.secondtCol {
+    width: 120px;
+    padding: 6px 0;
+}
+.thirdtCol {
+    width: 500px;
+    padding: 6px 0;
+}
+.transparent {
+    border-color: transparent;
+}
